@@ -7,7 +7,7 @@
     * [Sobre mi](docs/about/santi.md)
   * [diseno](docs/diseno/README.md)
     * [MD01](docs/diseno/md01.md)
-  * [inn](docs/inn/README.md)
+  * [Modulos](docs/inn/README.md)
     * [MI01](docs/inn/mi01.md)
   * [proyecto](docs/proyecto/README.md)
     * [Ideas Iniciales](docs/proyecto/proyecto.md)
