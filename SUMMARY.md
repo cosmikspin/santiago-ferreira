@@ -2,7 +2,7 @@
 
 * [EFDI Website Template](README.md)
 * [docs](docs/README.md)
-  * [Bienvenido /a](docs/index.md)
+  * [Bienvenido/a](docs/index.md)
   * [about](docs/about/README.md)
     * [Sobre mi](docs/about/santi.md)
   * [diseno](docs/diseno/README.md)
