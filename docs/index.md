@@ -8,4 +8,6 @@ description: Espacio web en GitHub
 
 Este es el espacio web en GitHub para el desarrollo de la especializacion en diseño e innovacion dictada por FabLab Barcelona y UTEC&#x20;
 
-[Primer proceso](inn/mi01.md)                                                                     [Sobre mi](about/santi.md)
+#### [Primer proceso](inn/mi01.md)   &#x20;
+
+#### [Sobre mi](about/santi.md)
