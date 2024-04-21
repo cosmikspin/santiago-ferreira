@@ -1,5 +1,5 @@
 # Sobre mi
 
-<figure><img src="../../.gitbook/assets/foto.jpeg" alt=""><figcaption><p>Santiago Ferreira</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/foto.jpeg" alt=""><figcaption></figcaption></figure>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit [**my website**](https://community.emergentfutures.io/courses/5566525/content)
+Mi nombre es Santiago Ferreira, soy un apasionado entusiasta por la tecnologia y la informatica, este es el link a [**mi website**](https://www.sanux.net/blog)
