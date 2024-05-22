@@ -10,7 +10,7 @@
   * [Modulos](docs/inn/README.md)
     * [MI01](docs/inn/mi01.md)
   * [proyecto](docs/proyecto/README.md)
-    * [Ideas Iniciales](docs/proyecto/proyecto.md)
+    * [R3-2B](docs/proyecto/proyecto.md)
   * [ref](docs/ref/README.md)
     * [web](docs/ref/web.md)
   * [tecnicos](docs/tecnicos/README.md)
